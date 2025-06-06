@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<img src="/images/profile.jpg" width="200" style="border-radius:50%;" alt="profile photo">
+<img src="/images/profile.JPG" width="200" style="border-radius:50%;" alt="profile photo">
 
 Welcome to my page!
 
