@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+<img src="/images/profile.jpg" width="200" style="border-radius:50%;" alt="profile photo">
+
 Welcome to my page!
 
 I am a fourth-year PhD candidate in [Operations Management and Statistics](https://www.rotman.utoronto.ca/faculty-and-research/academic-areas/operations-management-and-statistics/) at [Rotman School of Management](https://www.rotman.utoronto.ca/), University of Toronto. It is my great honor and pleasure to be advised by Prof. [Opher Baron](https://discover.research.utoronto.ca/10004-opher-baron), Prof. [Dmitry Krass](https://discover.research.utoronto.ca/7243-dmitry-krass), Prof. [Philipp Afeche](https://discover.research.utoronto.ca/15099-philipp-afeche) and Prof. [Arik Senderovich](https://profiles.laps.yorku.ca/profiles/sariks/). Prior to my PhD, I received my bachelor's degree in Statistical Science from [The Chinese University of Hong Kong, Shenzhen (CUHKSZ)](https://www.cuhk.edu.cn/en) in 2021.
