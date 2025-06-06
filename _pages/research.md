@@ -17,7 +17,7 @@ My research lies at the intersection of **operations management**, **causal infe
 Major revision, *M&SOM*, 2025 (3rd round to be submitted)
 
 - Winner, 2024 Oded Berman Student Paper Competition
-- SIG Presentation for Service Management, MSOM 2024
+- Service Management SIG, MSOM 2024
 - Finalist, CORS 2025 Queueing and Applied Probability SIG
 - Finalist, CORS 2024 Best Student Paper Competition (Open Category)
 - 2024 Rotman TD MDAL Research Grant
