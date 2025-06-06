@@ -16,10 +16,16 @@ Major revision, *M&SOM*, 2025 (3rd round review to be submitted)
 - Service Management SIG, MSOM 2024
 - Finalist, CORS 2025 Queueing and Applied Probability SIG
 - Finalist, CORS 2024 Best Student Paper Competition (Open Category)
+- 2023 Rotman TD MDAL Research Grant
+
+**Comparative Analyticsfor Emergency Department Efficiency: Applying Structural Causal Queueing Models at Singaporean Hospital**  
+(with Opher Baron, Dmitry Krass, Mark van der Laan and Arik Senderovich)  
+Work in progress
 - 2024 Rotman TD MDAL Research Grant
 
 **Bayesian Pricing for Impatient Customers with Unknown Valuation**  
 (with Philipp Afeche, Opher Baron and Dmitry Krass)  
 Work in progress
 - 2025 Rotman TD MDAL Research Grant
+
 
