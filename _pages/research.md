@@ -25,8 +25,4 @@ Major revision, *M&SOM*, 2025 (3rd round review to be submitted)
 Work in progress
 - 2025 Rotman TD MDAL Research Grant
 
-
 ---
-
-## Ongoing Projects
-
