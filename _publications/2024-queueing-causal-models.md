@@ -1,7 +1,6 @@
 ---
 title: "Queueing Causal Models: Comparative Analytics in Queueing Systems"
 collection: publications
-permalink: /publication/queueing-causal-models
 date: 2025-02-21
 authors: "Opher Baron, Dmitry Krass, Mark van der Laan, Arik Senderovich, Zhenghang Xu"
 journal: *major revision at Manufacturing & Service Operations Management (M&SOM), under 3rd round review*
