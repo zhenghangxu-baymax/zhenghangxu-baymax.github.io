@@ -18,7 +18,7 @@ Major revision, *M&SOM*, 2025 (3rd round review to be submitted)
 - Finalist, CORS 2024 Best Student Paper Competition (Open Category)
 - 2023 Rotman TD MDAL Research Grant
 
-**Comparative Analyticsfor Emergency Department Efficiency: Applying Structural Causal Queueing Models at Singaporean Hospital**  
+**Comparative Analytics for Emergency Department Efficiency: Applying Structural Causal Queueing Models at Singaporean Hospital**  
 (with Opher Baron, Dmitry Krass, Mark van der Laan and Arik Senderovich)  
 Work in progress
 - 2024 Rotman TD MDAL Research Grant
