@@ -1,6 +1,6 @@
 ---
-title: "Research"
-permalink: /research/
+title: "Papers"
+permalink: /papers/
 ---
 
 ## Research Interests
