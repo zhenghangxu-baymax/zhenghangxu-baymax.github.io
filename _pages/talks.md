@@ -3,9 +3,6 @@ title: "Talks"
 permalink: /talks/
 ---
 
-
-## Talks
-
 ### Queueing Causal Models: Comparative Analytics in Queueing Systems  
 <sub>* Co-presented with Opher Baron</sub>
 - Department of Biostatistics, University of California, Berkeley * — *Sep 2025 (scheduled)*  
