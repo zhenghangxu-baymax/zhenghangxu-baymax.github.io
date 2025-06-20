@@ -3,8 +3,6 @@ title: "Teaching"
 permalink: /teaching/
 ---
 
-## Teaching Experiences
-
 ### Teaching Assistant, Rotman School of Management, University of Toronto
 
 - **RSM1240**: Statistics for Management (MBA) — *Winter 2025*  
