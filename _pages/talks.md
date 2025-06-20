@@ -23,7 +23,7 @@ permalink: /talks/
 - INFORMS Annual Meeting — *Oct 2023*  
 - CORS Annual Meeting — *June 2023*  
 
-* Co-presented with Opher Baron
+<sub>* Co-presented with Opher Baron</sub>
 
 ---
 
