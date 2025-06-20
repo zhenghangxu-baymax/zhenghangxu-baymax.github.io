@@ -34,7 +34,7 @@ Submitted to *Healthcare Analytics*
 
 ## Publications
 
-**Pan, Y., Xu, Z., Guang, J., Chen, X., Dai, J. G., Wang, C., ... & Pan, H. (2021).**  
+Pan, Y., **Xu, Z.**, Guang, J., Chen, X., Dai, J. G., Wang, C., ... & Pan, H. (2021).  
 A high-fidelity, machine-learning enhanced queueing network simulation model for hospital ultrasound operations.  
 *Winter Simulation Conference (WSC)*, IEEE, 2021, pp. 1–12.
 
