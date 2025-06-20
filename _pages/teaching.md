@@ -1,1 +1,15 @@
+---
+title: "Teaching"
+permalink: /teaching/
+---
 
+## Teaching Experiences
+
+- **RSM1240**: Statistics for Management (MBA) — *Winter 2025*  
+- **RSM1282**: Operations Management (MBA) — *Winter 2025*  
+- **RSM8414**: Tools for Probabilistic Models and Prescriptive Analytics (MMA) — *Fall 2024*  
+- **RSM1240**: Statistics for Management (MBA) — *Winter 2024*  
+- **RSM8432**: Management Analytics Practicum (MMA) — *Winter 2024*  
+- **RSM2408**: Modeling and Optimization for Decision Making (MMA) — *Fall 2023*  
+- **RSM8415**: Service Analytics for Management Analysis (MMA) — *Winter 2023*  
+- **RSM2405**: Supply Chain Management (MBA) — *Fall 2022*
