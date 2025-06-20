@@ -28,8 +28,8 @@ permalink: /talks/
 
 ### Bayesian Pricing for Impatient Customers with Unknown Valuation
 
-- Rotman TD MDAL Research Round Table (scheduled) — *May 2026*  
-- INFORMS Annual Meeting (scheduled) — *Oct 2025*  
+- Rotman TD MDAL Research Round Table — *May 2026 (scheduled)*  
+- INFORMS Annual Meeting — *Oct 2025 (scheduled)*  
 - CORS Annual Meeting — *June 2025*
 
 ---
