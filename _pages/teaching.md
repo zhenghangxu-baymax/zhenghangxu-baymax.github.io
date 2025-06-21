@@ -5,7 +5,7 @@ permalink: /teaching/
 
 ### Teaching Assistant, Rotman School of Management, University of Toronto
 
-- **RSM1240**: Statistics for Management (MBA) — *Winter 2025, 2024*  
+- **RSM1240**: Statistics for Management (MBA) — *Winter 2024, 2025*  
 - **RSM1282**: Operations Management (MBA) — *Winter 2025*  
 - **RSM8414**: Tools for Probabilistic Models and Prescriptive Analytics (MMA) — *Fall 2024*  
 - **RSM8432**: Management Analytics Practicum (MMA) — *Winter 2024*  
