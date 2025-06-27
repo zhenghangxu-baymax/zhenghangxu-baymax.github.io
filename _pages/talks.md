@@ -5,8 +5,10 @@ permalink: /talks/
 
 ### Queueing Causal Models: Comparative Analytics in Queueing Systems  
 <sub>* Co-presented with Opher Baron</sub>
-- Department of Biostatistics, University of California, Berkeley * — *Sep 2025 (scheduled)*  
-- INFORMS Applied Probability Society — *July 2025*  
+- Invited Talks
+  - Department of Biostatistics, University of California, Berkeley * — *Sep 2025 (scheduled)*
+  - Matrix Analytics Methods (MAM) 12 Conference - *June 2025*
+  - INFORMS Applied Probability Society — *July 2025*  
 - CORS Queueing and Applied Probability SIG — *June 2025*  
 - INFORMS Annual Meeting — *Oct 2024*  
 - Department of Logistics and Maritime Studies, The Hong Kong Polytechnic University * — *Sep 2024*  
