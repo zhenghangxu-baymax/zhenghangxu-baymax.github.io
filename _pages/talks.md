@@ -13,7 +13,7 @@ permalink: /talks/
   - School of Management and Economics, The Chinese University of Hong Kong, Shenzhen * — *Sep 2024*  
   - Antai College of Economics and Management, Shanghai Jiao Tong University * — *Sep 2024*  
   - School of Management, Fudan University * — *Sep 2024*  
-- Conference Talks
+- Conference Presentations
   - Matrix Analytics Methods (MAM) 12 Conference (Keynote)* - *June 2025*
   - INFORMS Applied Probability Society — *July 2025*
   - CORS Student Paper Competition (Open Category) — *June 2024*  
