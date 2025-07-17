@@ -19,7 +19,7 @@ Major revision, *MSOM*, 2025 (under third round review)
 - 2023 Rotman TD MDAL Research Grant  
 
 **Bayesian Pricing for Impatient Customers with Unknown Valuation**  
-(with Philipp Afeche, Opher Baron, and Dmitry Krass)  
+(with Philipp Afèche, Opher Baron, and Dmitry Krass)  
 Work in progress  
 - 2024 Rotman TD MDAL Research Grant  
 
