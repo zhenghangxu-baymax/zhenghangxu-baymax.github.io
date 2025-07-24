@@ -14,10 +14,10 @@ permalink: /talks/
   - Antai College of Economics and Management, Shanghai Jiao Tong University * — *Sep 2024*  
   - School of Management, Fudan University * — *Sep 2024*  
 - Conference Presentations
-  - Matrix Analytics Methods (MAM) 12 Conference (Keynote)* - *June 2025*
   - INFORMS Applied Probability Society — *July 2025*
-  - CORS Student Paper Competition (Open Category) — *June 2024*  
+  - Matrix Analytics Methods (MAM) 12 Conference (Keynote)* - *June 2025*
   - CORS Queueing and Applied Probability SIG — *June 2025*  
+  - CORS Student Paper Competition (Open Category) — *June 2024*  
   - INFORMS Annual Meeting — *Oct 2024*  
   - Rotman TD MDAL Research Round Table — *May 2024*  
   - INFORMS Annual Meeting — *Oct 2023*  
