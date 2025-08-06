@@ -11,7 +11,7 @@ My research lies at the intersection of **operations management**, **causal infe
 
 **[Queueing Causal Models: Comparative Analytics in Queueing Systems](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5104446)**  
 (with Opher Baron, Dmitry Krass, Mark van der Laan, and Arik Senderovich)  
-Major revision, *MSOM*, 2025 (under third round review)  
+Minor revision, *MSOM*, 2025 (third round)  
 - 🥇 First prize, CORS 2025 Queueing and Applied Probability SIG  
 - 🏆 Winner, 2024 Oded Berman Student Paper Competition  
 - 🎖️ Finalist, CORS 2024 Best Student Paper Competition (Open Category)  
