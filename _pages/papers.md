@@ -23,6 +23,10 @@ Minor revision, *MSOM*, 2025 (third round)
 Work in progress  
 - 2024 Rotman TD MDAL Research Grant  
 
+**Beyond the Queue: Rethinking MRI Waitlist Dynamics for Backlog Management**  
+(with Opher Baron, Andre Cire, Adam Diamant and Eugene Furman)  
+Work in progress, to be submitted to MSOM
+
 **Queueing Causal Models for Emergency Department Efficiency**  
 (with Opher Baron, Dmitry Krass, Mark van der Laan, and Arik Senderovich)  
 Work in progress  
