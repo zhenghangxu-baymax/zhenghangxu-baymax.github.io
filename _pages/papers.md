@@ -20,7 +20,7 @@ Minor revision, *MSOM*, 2025
 
 **Bayesian Pricing for Impatient Customers with Unknown Valuation**  
 (with Philipp Afèche, Opher Baron, and Dmitry Krass)  
-Work in progress  
+Work in progress, to be submitted to Management Science
 - 2024 Rotman TD MDAL Research Grant  
 
 **Beyond the Queue: Rethinking MRI Waitlist Dynamics for Backlog Management**  
@@ -28,8 +28,8 @@ Work in progress
 Work in progress, to be submitted to MSOM
 
 **Queueing Causal Models for Emergency Department Efficiency**  
-(with Opher Baron, Dmitry Krass, Mark van der Laan, and Arik Senderovich)  
-Work in progress  
+(with Opher Baron, Dmitry Krass, Mark van der Laan and Arik Senderovich)  
+Work in progress, to be submitted to Management Science
 - 2025 Rotman TD MDAL Research Grant  
 
 **[Leveraging Advanced Analytics to Streamline the Emergent Dialysis Process at Parkland Hospital](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5066305)**  
