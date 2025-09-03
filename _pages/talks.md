@@ -4,9 +4,8 @@ permalink: /talks/
 ---
 
 ### Queueing Causal Models: Comparative Analytics in Queueing Systems  
-<sub>* Co-presented with Opher Baron</sub>
 - Invited Seminars
-  - Department of Biostatistics, University of California, Berkeley * — *Sep 2025 (scheduled)*
+  - Department of Biostatistics, University of California, Berkeley * — *Sep 2025 (Canceled due to Conflict of Schedule)*
   - Department of Logistics and Maritime Studies, The Hong Kong Polytechnic University * — *Sep 2024*  
   - IEDA, The Hong Kong University of Science and Technology * — *Sep 2024*  
   - CUHK Business School, The Chinese University of Hong Kong * — *Sep 2024*  
