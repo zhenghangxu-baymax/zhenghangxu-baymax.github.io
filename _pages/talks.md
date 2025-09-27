@@ -42,7 +42,6 @@ permalink: /talks/
   - CORS Annual Meeting — *June 2023*
 
 
-
 ---
 
 ### Bayesian Pricing for Impatient Customers with Unknown Valuation
@@ -51,6 +50,13 @@ permalink: /talks/
 - INFORMS Annual Meeting — *Oct 2025 (scheduled)*
 - Prof. Huan Zheng's Group, Shanghai Jiao Tong University (Online) - *July 2025*
 - CORS Annual Meeting — *June 2025*
+
+---
+
+### Beyond the Queue: Rethinking MRI Waitlist Dynamics for Backlog Management
+
+- Rotman Young Scholar Seminar — *Nov 2025 (scheduled)*  
+- Prof. Huan Zheng's Group, Shanghai Jiao Tong University (Online) - *Nov 2025*
 
 ---
 
