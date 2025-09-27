@@ -3,6 +3,9 @@ title: "Teaching"
 permalink: /teaching/
 ---
 
+### Guest Speaker, Rotman School of Management, University of Toronto
+- **RSM3090**: Queueing Theory - Models and Analysis (PhD) — *Fall 2025*  
+
 ### Teaching Assistant, Rotman School of Management, University of Toronto
 
 - **RSM1240**: Statistics for Management (MBA) — *Winter 2024, 2025*  
