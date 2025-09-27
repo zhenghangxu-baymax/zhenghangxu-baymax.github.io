@@ -5,35 +5,35 @@ permalink: /talks/
 
 ### Queueing Causal Models: Comparative Analytics in Queueing Systems  
 
-<small><sup>*</sup> denotes presentations given jointly with another speaker. This talk was presented by other speakers as a keynote and at several other invited seminars nationally and internationally.</small>  
+<small>* denotes presentations given jointly with another speaker. This talk was presented by other speakers as a keynote and at several other invited seminars nationally and internationally.</small>  
 
 - **Invited Seminars**
-  - Stern School of Business, New York University<sup>*</sup> — *Oct 2025 (scheduled)*
-  - McCombs School of Business, University of Texas at Austin<sup>*</sup> — *Oct 2025 (scheduled)*
-  - Naveen Jindal School of Management, University of Texas at Dallas<sup>*</sup> — *Oct 2025 (scheduled)*
-  - IEOR, University of California, Berkeley<sup>*</sup> — *Sep 2025 (scheduled)*
-  - Department of Biostatistics, University of California, Berkeley<sup>*</sup> — *Sep 2025 (scheduled)*
-  - Whitman School of Management, Syracuse University<sup>*</sup> — *Sep 2025 (scheduled)*
-  - Jerusalem Business School, The Hebrew University of Jerusalem<sup>*</sup> — *Mar 2025*
-  - Afeka Academic College of Engineering, Tel Aviv University<sup>*</sup> — *Mar 2025*
-  - Coller School of Management, Tel Aviv University<sup>*</sup> — *Mar 2025*
-  - Sauder School of Business, University of British Columbia Okanagan<sup>*</sup> — *Feb 2025*
-  - Smith School of Business, Queen’s University<sup>*</sup> — *Oct 2024*
-  - School of Management, Fudan University<sup>*</sup> — *Sep 2024*
-  - Antai College of Economics and Management, Shanghai Jiao Tong University<sup>*</sup> — *Sep 2024*
-  - School of Business, Renmin University of China<sup>*</sup> — *Sep 2024*
-  - School of Management, Hefei University of Technology<sup>*</sup> — *Sep 2024*
-  - School of Management and Economics, The Chinese University of Hong Kong, Shenzhen<sup>*</sup> — *Sep 2024*
-  - Department of Decisions, Operations and Technology, CUHK Business School<sup>*</sup> — *Sep 2024*
-  - IEDA, Hong Kong University of Science and Technology<sup>*</sup> — *Sep 2024*
-  - Department of Logistics and Maritime Studies, The Hong Kong Polytechnic University<sup>*</sup> — *Sep 2024*
+  - Stern School of Business, New York University* — *Oct 2025 (scheduled)*
+  - McCombs School of Business, University of Texas at Austin* — *Oct 2025 (scheduled)*
+  - Naveen Jindal School of Management, University of Texas at Dallas* — *Oct 2025 (scheduled)*
+  - IEOR, University of California, Berkeley* — *Sep 2025 (scheduled)*
+  - Department of Biostatistics, University of California, Berkeley* — *Sep 2025 (scheduled)*
+  - Whitman School of Management, Syracuse University* — *Sep 2025 (scheduled)*
+  - Jerusalem Business School, The Hebrew University of Jerusalem* — *Mar 2025*
+  - Afeka Academic College of Engineering, Tel Aviv University* — *Mar 2025*
+  - Coller School of Management, Tel Aviv University* — *Mar 2025*
+  - Sauder School of Business, University of British Columbia Okanagan* — *Feb 2025*
+  - Smith School of Business, Queen’s University* — *Oct 2024*
+  - School of Management, Fudan University* — *Sep 2024*
+  - Antai College of Economics and Management, Shanghai Jiao Tong University* — *Sep 2024*
+  - School of Business, Renmin University of China* — *Sep 2024*
+  - School of Management, Hefei University of Technology* — *Sep 2024*
+  - School of Management and Economics, The Chinese University of Hong Kong, Shenzhen* — *Sep 2024*
+  - Department of Decisions, Operations and Technology, CUHK Business School* — *Sep 2024*
+  - IEDA, Hong Kong University of Science and Technology* — *Sep 2024*
+  - Department of Logistics and Maritime Studies, The Hong Kong Polytechnic University* — *Sep 2024*
 
 - **Keynotes / Other Events**
-  - PIFI Day Series Event, University of Chinese Academy of Sciences<sup>*</sup> — *Sep 2024*
+  - PIFI Day Series Event, University of Chinese Academy of Sciences* — *Sep 2024*
 
 - **Conference Presentations**
   - INFORMS Applied Probability Society — *July 2025*
-  - Matrix-Analytic Methods (MAM) 12 Conference (Keynote)<sup>*</sup> — *June 2025*
+  - Matrix-Analytic Methods (MAM) 12 Conference (Keynote)* — *June 2025*
   - CORS Queueing and Applied Probability SIG — *June 2025*
   - INFORMS Annual Meeting — *Oct 2024*
   - CORS Student Paper Competition (Open Category) — *June 2024*
