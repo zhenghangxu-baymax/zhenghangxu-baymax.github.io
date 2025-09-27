@@ -5,8 +5,7 @@ permalink: /talks/
 
 ### Queueing Causal Models: Comparative Analytics in Queueing Systems  
 
-<small><sup>*</sup> denotes presentations given jointly with another speaker.  
-This talk was presented by other speakers as a keynote and at several other invited seminars nationally and internationally.</small>  
+<small><sup>*</sup> denotes presentations given jointly with another speaker. This talk was presented by other speakers as a keynote and at several other invited seminars nationally and internationally.</small>  
 
 - **Invited Seminars**
   - Stern School of Business, New York University<sup>*</sup> — *Oct 2025 (scheduled)*
