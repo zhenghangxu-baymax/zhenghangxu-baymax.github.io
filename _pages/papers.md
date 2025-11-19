@@ -34,7 +34,7 @@ Work in progress
 
 **[Leveraging Advanced Analytics to Streamline the Emergent Dialysis Process at Parkland Hospital](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5066305)**  
 (with Olga Bountali, Sila Cetinkaya, Michael Hahsler, Farnaz Nourbakhsh, and Henry Quinones)  
-Major Revision at *Healthcare Analytics*
+Accepted at *Healthcare Analytics*
 
 ## Publications
 
