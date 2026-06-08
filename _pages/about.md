@@ -14,6 +14,4 @@ I develop data-driven frameworks that combine causal inference, machine learning
 
 I am one of the current cohosts for the [Rotman Young Scholar Seminar series](https://sites.google.com/view/rotmanyoungscholarseminar/home). If you are interested in joining the seminar series, feel free to contact me!
 
-**I will be on the job market in 2025–2026.**
-
 Please feel free to contact me at: zhenghang.xu "at" rotman "dot" utoronto "dot" ca
