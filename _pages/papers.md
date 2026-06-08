@@ -11,9 +11,11 @@ My research lies at the intersection of **operations management**, **causal infe
 
  
 
-**[Managing Scarce MRI Capacity in Overloaded Queueing Systems]({{ base_path }}/files/managing-scarce-mri-capacity.pdf)**  
+**[Managing Scarce MRI Capacity in Overloaded Queueing Systems](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6158086)**  
 (with Opher Baron, Andre Cire, Adam Diamant and Eugene Furman)  
 Major revision at *MSOM*, 2026
+- 🎖️ Finalist, CORS 2026 Healthcare SIG
+
 
 **Bayesian Pricing for Impatient Customers with Unknown Valuation**  
 (with Philipp Afèche, Opher Baron, and Dmitry Krass)  
