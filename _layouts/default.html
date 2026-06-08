@@ -1,28 +1,31 @@
-<!DOCTYPE html>
-<html>
+---
+layout: compress
+---
+
+{% include base_path %}
+
+<!doctype html>
+<html lang="{{ site.locale | slice: 0,2 }}" class="no-js"{% if site.site_theme == "dark" %} data-theme="dark"{% endif %}>
   <head>
-    <meta charset="utf-8">
-    <title>{{ page.title }} | {{ site.title }}</title>
-    <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
+    {% include head.html %}
+    {% include head/custom.html %}
   </head>
+
   <body>
-    <header>
-      <h1><a href="{{ '/' | relative_url }}">{{ site.title }}</a></h1>
-      <nav>
-        <a href="{{ '/' | relative_url }}">Home</a> |
-        <a href="{{ '/research.html' | relative_url }}">Research</a> |
-        <a href="{{ '/teaching.html' | relative_url }}">Teaching</a> |
-        <a href="{{ '/service.html' | relative_url }}">Service</a> |
-        <a href="{{ '/cv.html' | relative_url }}">CV</a>
-      </nav>
-    </header>
 
-    <main>
-      {{ content }}
-    </main>
+    {% include browser-upgrade.html %}
+    {% include masthead.html %}
 
-    <footer>
-      <p>© {{ site.title }} — {{ site.email }}</p>
-    </footer>
+    {{ content }}
+
+    <div class="page__footer">
+      <footer>
+        {% include footer/custom.html %}
+        {% include footer.html %}
+      </footer>
+    </div>
+
+    {% include scripts.html %}
+
   </body>
 </html>
