@@ -18,7 +18,7 @@ Forthcoming at *MSOM*, 2025 (Job Market Paper)
 - Service Management SIG, MSOM 2024  
 - 2023 Rotman TD MDAL Research Grant  
 
-**Beyond the Queue: Rethinking MRI Waitlist Dynamics for Backlog Management**  
+**[Managing Scarce MRI Capacity in Overloaded Queueing Systems]({{ base_path }}/files/managing-scarce-mri-capacity.pdf)**  
 (with Opher Baron, Andre Cire, Adam Diamant and Eugene Furman)  
 Submitted, draft available upon request
 
@@ -41,5 +41,4 @@ Accepted at *Healthcare Analytics*
 Pan, Y., **Xu, Z.**, Guang, J., Chen, X., Dai, J. G., Wang, C., ... & Pan, H. (2021).  
 A high-fidelity, machine-learning enhanced queueing network simulation model for hospital ultrasound operations.  
 *Winter Simulation Conference (WSC)*, IEEE, 2021, pp. 1–12.
-
 
