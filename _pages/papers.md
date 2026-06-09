@@ -27,9 +27,7 @@ Work in progress, draft available upon request
 Work in progress
 - 2025 Rotman TD MDAL Research Grant  
 
-**[Leveraging Advanced Analytics to Streamline the Emergent Dialysis Process at Parkland Hospital](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5066305)**  
-(with Olga Bountali, Sila Cetinkaya, Michael Hahsler, Farnaz Nourbakhsh, and Henry Quinones)  
-Accepted at *Healthcare Analytics*
+
 
 ## Publications
 
@@ -41,6 +39,10 @@ Accepted at *Healthcare Analytics*
 - 🎖️ Finalist, CORS 2024 Best Student Paper Competition (Open Category)  
 - Service Management SIG, MSOM 2024  
 - 2023 Rotman TD MDAL Research Grant 
+
+**[Leveraging Advanced Analytics to Streamline the Emergent Dialysis Process at Parkland Hospital](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5066305)**  
+(with Olga Bountali, Sila Cetinkaya, Michael Hahsler, Farnaz Nourbakhsh, and Henry Quinones)  
+Accepted at *Healthcare Analytics*
 
 Pan, Y., **Xu, Z.**, Guang, J., Chen, X., Dai, J. G., Wang, C., ... & Pan, H. (2021).  
 A high-fidelity, machine-learning enhanced queueing network simulation model for hospital ultrasound operations.  
