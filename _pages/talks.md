@@ -51,4 +51,3 @@ permalink: /talks/
 - CORS Annual Meeting — *June 2026*
 - Rotman TD MDAL Research Round Table — *May 2025*
 
-

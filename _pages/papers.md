@@ -27,6 +27,11 @@ Work in progress, draft available upon request
 Work in progress
 - 2025 Rotman TD MDAL Research Grant  
 
+**Fairness in Multi-Stage Healthcare Access: A Study of Congestion, Chronic Patients, and Operational Redesign**
+(with Olga Bountali, Sila Cetinkaya, Michael Hahsler, Farnaz Nourbakhsh and Henry Quinones)
+Work in progress
+- CORS 2026 Annual Meeting
+
 
 
 ## Publications
@@ -42,9 +47,11 @@ Work in progress
 
 **[Leveraging Advanced Analytics to Streamline the Emergent Dialysis Process at Parkland Hospital](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5066305)**  
 (with Olga Bountali, Sila Cetinkaya, Michael Hahsler, Farnaz Nourbakhsh, and Henry Quinones)  
-Accepted at *Healthcare Analytics*
+*Healthcare Analytics*, 2025
 
-Pan, Y., **Xu, Z.**, Guang, J., Chen, X., Dai, J. G., Wang, C., ... & Pan, H. (2021).  
-A high-fidelity, machine-learning enhanced queueing network simulation model for hospital ultrasound operations.  
-*Winter Simulation Conference (WSC)*, IEEE, 2021, pp. 1–12.
+<!-- Pan, Y., **Xu, Z.**, Guang, J., Chen, X., Dai, J. G., Wang, C., ... & Pan, H. (2021).   -->
+
+**[A High-Fidelity, Machine-Learning Enhanced Queueing Network Simulation Model For Hospital Ultrasound Operations](https://ieeexplore.ieee.org/document/9715469)**
+(with Yihan Pan, Jin Guang, Xinyun Chen, J.G. Dai, Chengwenjian Wang, Xuanming Zhang, Jingjing Sun, Pengyi Shi, Yichuan Ding, Song Wu, Kai Yang, Hongxin Pan)
+*Winter Simulation Conference (WSC)*, 2021.
 
