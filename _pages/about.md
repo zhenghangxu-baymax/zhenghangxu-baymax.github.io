@@ -12,6 +12,10 @@ I am Zhenghang Xu (徐正航), a fifth-year PhD candidate in [Operations Managem
 
 I develop data-driven frameworks that combine causal inference, machine learning, and stochastic modeling to support decision-making in complex service systems. My recent work introduces causal models for queueing systems that uncover system dynamics directly from data, enabling counterfactual analysis without relying on restrictive analytical assumptions. I also study Bayesian pricing strategies that adaptively learn customer valuations and optimize revenue under operational constraints.
 
+
 I am one of the current cohosts for the [Rotman Young Scholar Seminar series](https://sites.google.com/view/rotmanyoungscholarseminar/home). If you are interested in joining the seminar series, feel free to contact me!
+
+
+**Update: Starting in August 2026, I will join the Rotman School of Management, University of Toronto, as a postdoctoral researcher, working with Prof. [Nasser Barjesteh](https://www-2.rotman.utoronto.ca/nasser.barjesteh/), Prof. [Sheng Liu](https://sites.google.com/site/thushengliu/), and Prof. [Vahid Roshanaei](https://www.rotman.utoronto.ca/the-rotman-experience/our-community/people/roshanaei-vahid/). I am delighted to continue my academic journey with the Rotman community!**
 
 Please feel free to contact me at: zhenghang.xu "at" rotman "dot" utoronto "dot" ca
