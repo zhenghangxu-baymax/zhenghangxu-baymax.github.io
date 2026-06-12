@@ -13,7 +13,7 @@ My research lies at the intersection of **operations management**, **causal infe
   }
 
   .paper-entry {
-    margin-bottom: 0.9rem;
+    margin-bottom: 1.35rem;
   }
 
   .paper-entry p {
