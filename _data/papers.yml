@@ -1,0 +1,59 @@
+- id: paper-mri-capacity
+  section: submitted
+  title: "Managing Scarce MRI Capacity in Overloaded Queueing Systems"
+  url: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6158086"
+  authors: "Opher Baron, Andre Cire, Adam Diamant and Eugene Furman"
+  status: "Major revision at *MSOM*, 2026"
+  notes:
+    - "🎖️ Finalist, CORS 2026 Healthcare SIG"
+
+- id: paper-bayesian-pricing
+  section: submitted
+  title: "Bayesian Pricing for Impatient Customers with Unknown Valuation"
+  authors: "Philipp Afèche, Opher Baron, and Dmitry Krass"
+  status: "Work in progress, draft available upon request"
+  notes:
+    - "2024 Rotman TD MDAL Research Grant"
+
+- id: paper-ed-efficiency
+  section: submitted
+  title: "Queueing Causal Models for Emergency Department Efficiency"
+  authors: "Opher Baron, Dmitry Krass, Mark van der Laan and Arik Senderovich"
+  status: "Work in progress"
+  notes:
+    - "2025 Rotman TD MDAL Research Grant"
+
+- id: paper-healthcare-access-fairness
+  section: submitted
+  title: "Fairness in Multi-Stage Healthcare Access: A Study of Congestion, Chronic Patients, and Operational Redesign"
+  authors: "Olga Bountali, Sila Cetinkaya, Michael Hahsler, Farnaz Nourbakhsh and Henry Quinones"
+  status: "Work in progress"
+  notes:
+    - "CORS 2026 Annual Meeting"
+
+- id: paper-queueing-causal-models
+  section: published
+  title: "Queueing Causal Models: Comparative Analytics in Queueing Systems"
+  url: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5104446"
+  authors: "Opher Baron, Dmitry Krass, Mark van der Laan, and Arik Senderovich"
+  status: "*MSOM*, 2025"
+  notes:
+    - "🥇 First prize, CORS 2025 Queueing and Applied Probability SIG"
+    - "🏆 Winner, 2024 Oded Berman Student Paper Competition"
+    - "🎖️ Finalist, CORS 2024 Best Student Paper Competition (Open Category)"
+    - "Service Management SIG, MSOM 2024"
+    - "2023 Rotman TD MDAL Research Grant"
+
+- id: paper-emergent-dialysis
+  section: published
+  title: "Leveraging Advanced Analytics to Streamline the Emergent Dialysis Process at Parkland Hospital"
+  url: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5066305"
+  authors: "Olga Bountali, Sila Cetinkaya, Michael Hahsler, Farnaz Nourbakhsh, and Henry Quinones"
+  status: "*Healthcare Analytics*, 2025"
+
+- id: paper-ultrasound-simulation
+  section: published
+  title: "A High-Fidelity, Machine-Learning Enhanced Queueing Network Simulation Model For Hospital Ultrasound Operations"
+  url: "https://ieeexplore.ieee.org/document/9715469"
+  authors: "Yihan Pan, Jin Guang, Xinyun Chen, J.G. Dai, Chengwenjian Wang, Xuanming Zhang, Jingjing Sun, Pengyi Shi, Yichuan Ding, Song Wu, Kai Yang, Hongxin Pan"
+  status: "*Winter Simulation Conference (WSC)*, 2021."

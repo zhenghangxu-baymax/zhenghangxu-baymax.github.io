@@ -1,0 +1,11 @@
+{%- assign target_number = nil -%}
+{%- assign target_href = nil -%}
+{%- assign paper_number = 0 -%}
+{%- for paper in site.data.papers -%}
+  {%- assign paper_number = paper_number | plus: 1 -%}
+  {%- if paper.id == include.id -%}
+    {%- assign target_number = paper_number -%}
+    {%- assign target_href = '/papers/#' | append: paper.id | relative_url -%}
+  {%- endif -%}
+{%- endfor -%}
+{%- if target_number -%}<a href="{{ target_href }}">[{{ target_number }}]</a>{%- else -%}<span title="Unknown paper id: {{ include.id }}">[?]</span>{%- endif -%}
