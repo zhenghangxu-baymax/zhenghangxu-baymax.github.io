@@ -9,26 +9,31 @@ My research lies at the intersection of **operations management**, **causal infe
 
 ## Submitted & Working Papers
 
- 
+<a id="paper-mri-capacity"></a>
 
-**[Managing Scarce MRI Capacity in Overloaded Queueing Systems](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6158086)**  
+**[1] [Managing Scarce MRI Capacity in Overloaded Queueing Systems](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6158086)**  
 (with Opher Baron, Andre Cire, Adam Diamant and Eugene Furman)  
 Major revision at *MSOM*, 2026
 - 🎖️ Finalist, CORS 2026 Healthcare SIG
 
+<a id="paper-bayesian-pricing"></a>
 
-**Bayesian Pricing for Impatient Customers with Unknown Valuation**  
+**[2] Bayesian Pricing for Impatient Customers with Unknown Valuation**  
 (with Philipp Afèche, Opher Baron, and Dmitry Krass)  
 Work in progress, draft available upon request
 - 2024 Rotman TD MDAL Research Grant  
 
-**Queueing Causal Models for Emergency Department Efficiency**  
+<a id="paper-ed-efficiency"></a>
+
+**[3] Queueing Causal Models for Emergency Department Efficiency**  
 (with Opher Baron, Dmitry Krass, Mark van der Laan and Arik Senderovich)  
 Work in progress
 - 2025 Rotman TD MDAL Research Grant  
 
-**Fairness in Multi-Stage Healthcare Access: A Study of Congestion, Chronic Patients, and Operational Redesign**
-(with Olga Bountali, Sila Cetinkaya, Michael Hahsler, Farnaz Nourbakhsh and Henry Quinones)
+<a id="paper-healthcare-access-fairness"></a>
+
+**[4] Fairness in Multi-Stage Healthcare Access: A Study of Congestion, Chronic Patients, and Operational Redesign**  
+(with Olga Bountali, Sila Cetinkaya, Michael Hahsler, Farnaz Nourbakhsh and Henry Quinones)  
 Work in progress
 - CORS 2026 Annual Meeting
 
@@ -36,7 +41,9 @@ Work in progress
 
 ## Publications
 
-**[Queueing Causal Models: Comparative Analytics in Queueing Systems](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5104446)**  
+<a id="paper-queueing-causal-models"></a>
+
+**[5] [Queueing Causal Models: Comparative Analytics in Queueing Systems](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5104446)**  
 (with Opher Baron, Dmitry Krass, Mark van der Laan, and Arik Senderovich)  
 *MSOM*, 2025
 - 🥇 First prize, CORS 2025 Queueing and Applied Probability SIG  
@@ -45,13 +52,16 @@ Work in progress
 - Service Management SIG, MSOM 2024  
 - 2023 Rotman TD MDAL Research Grant 
 
-**[Leveraging Advanced Analytics to Streamline the Emergent Dialysis Process at Parkland Hospital](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5066305)**  
+<a id="paper-emergent-dialysis"></a>
+
+**[6] [Leveraging Advanced Analytics to Streamline the Emergent Dialysis Process at Parkland Hospital](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5066305)**  
 (with Olga Bountali, Sila Cetinkaya, Michael Hahsler, Farnaz Nourbakhsh, and Henry Quinones)  
 *Healthcare Analytics*, 2025
 
 <!-- Pan, Y., **Xu, Z.**, Guang, J., Chen, X., Dai, J. G., Wang, C., ... & Pan, H. (2021).   -->
 
-**[A High-Fidelity, Machine-Learning Enhanced Queueing Network Simulation Model For Hospital Ultrasound Operations](https://ieeexplore.ieee.org/document/9715469)**
-(with Yihan Pan, Jin Guang, Xinyun Chen, J.G. Dai, Chengwenjian Wang, Xuanming Zhang, Jingjing Sun, Pengyi Shi, Yichuan Ding, Song Wu, Kai Yang, Hongxin Pan)
-*Winter Simulation Conference (WSC)*, 2021.
+<a id="paper-ultrasound-simulation"></a>
 
+**[7] [A High-Fidelity, Machine-Learning Enhanced Queueing Network Simulation Model For Hospital Ultrasound Operations](https://ieeexplore.ieee.org/document/9715469)**  
+(with Yihan Pan, Jin Guang, Xinyun Chen, J.G. Dai, Chengwenjian Wang, Xuanming Zhang, Jingjing Sun, Pengyi Shi, Yichuan Ding, Song Wu, Kai Yang, Hongxin Pan)  
+*Winter Simulation Conference (WSC)*, 2021.
