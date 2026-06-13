@@ -19,3 +19,5 @@ I am one of the current cohosts for the [Rotman Young Scholar Seminar series](ht
 **Update: Starting in August 2026, I will join the Rotman School of Management, University of Toronto, as a postdoctoral researcher, working with Prof. [Nasser Barjesteh](https://www-2.rotman.utoronto.ca/nasser.barjesteh/), Prof. [Sheng Liu](https://sites.google.com/site/thushengliu/), and Prof. [Vahid Roshanaei](https://www.rotman.utoronto.ca/the-rotman-experience/our-community/people/roshanaei-vahid/). I am delighted to continue my academic journey with the Rotman community!**
 
 Please feel free to contact me at: zhenghang.xu "at" rotman "dot" utoronto "dot" ca
+
+{% include mapmyvisitors.html %}

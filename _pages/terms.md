@@ -1,7 +1,7 @@
 ---
 permalink: /terms/
 title: "Terms and Privacy Policy"
-modified: 2016-06-06
+modified: 2026-06-13
 ---
 
 {% include base_path %}
@@ -25,6 +25,10 @@ Like many other websites, this site uses log files to help learn about when, fro
 * Number of clicks
 
 All of this information is not linked to anything that is personally identifiable.
+
+### Visitor Map Analytics
+
+This site may use a third-party visitor map widget to show aggregate visitor locations and traffic statistics.
 
 ### Cookies and Web Beacons
 
