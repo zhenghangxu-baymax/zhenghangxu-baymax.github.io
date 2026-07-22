@@ -1,0 +1,91 @@
+- id: talk-queueing-causal-models
+  paper_id: paper-queueing-causal-models
+  title: "Queueing Causal Models: Comparative Analytics in Queueing Systems"
+  note: "* denotes presentations given jointly with another speaker. This talk was presented by other speakers as a keynote and at several other invited seminars nationally and internationally."
+  groups:
+    - name: "Invited Seminars"
+      items:
+        - venue: "School of Management, Fudan University"
+          date: "Sep 2024"
+          joint: true
+        - venue: "Antai College of Economics and Management, Shanghai Jiao Tong University"
+          date: "Sep 2024"
+          joint: true
+        - venue: "School of Business, Renmin University of China"
+          date: "Sep 2024"
+          joint: true
+        - venue: "School of Management, Hefei University of Technology"
+          date: "Sep 2024"
+          joint: true
+        - venue: "School of Management and Economics, The Chinese University of Hong Kong, Shenzhen"
+          date: "Sep 2024"
+          joint: true
+        - venue: "Department of Decisions, Operations and Technology, CUHK Business School"
+          date: "Sep 2024"
+          joint: true
+        - venue: "IEDA, Hong Kong University of Science and Technology"
+          date: "Sep 2024"
+          joint: true
+        - venue: "Department of Logistics and Maritime Studies, The Hong Kong Polytechnic University"
+          date: "Sep 2024"
+          joint: true
+    - name: "Conference Presentations"
+      items:
+        - venue: "INFORMS Applied Probability Society"
+          date: "July 2025"
+        - venue: "Matrix-Analytic Methods (MAM) 12 Conference (Keynote)"
+          date: "June 2025"
+          joint: true
+        - venue: "CORS Queueing and Applied Probability SIG"
+          date: "June 2025"
+        - venue: "INFORMS Annual Meeting"
+          date: "Oct 2024"
+        - venue: "CORS Student Paper Competition (Open Category)"
+          date: "June 2024"
+        - venue: "Rotman TD MDAL Research Round Table"
+          date: "May 2024"
+        - venue: "INFORMS Annual Meeting"
+          date: "Oct 2023"
+        - venue: "CORS Annual Meeting"
+          date: "June 2023"
+
+- id: talk-bayesian-pricing
+  paper_id: paper-bayesian-pricing
+  title: "Bayesian Pricing for Impatient Customers with Unknown Valuation"
+  groups:
+    - name: "Presentations"
+      items:
+        - venue: "CORS Annual Meeting"
+          date: "CORS 2026"
+        - venue: "Rotman TD MDAL Research Round Table"
+          date: "May 2026"
+        - venue: "INFORMS Annual Meeting"
+          date: "Oct 2025"
+        - venue: "Prof. Huan Zheng's Group, Shanghai Jiao Tong University (Online)"
+          date: "July 2025"
+        - venue: "CORS Annual Meeting"
+          date: "June 2025"
+
+- id: talk-mri-waitlist-dynamics
+  paper_id: paper-mri-capacity
+  title: "Beyond the Queue: Rethinking MRI Waitlist Dynamics for Backlog Management"
+  groups:
+    - name: "Presentations"
+      items:
+        - venue: "CORS Healthcare SIG"
+          date: "June 2026"
+        - venue: "Rotman Young Scholar Seminar"
+          date: "Nov 2025 (scheduled)"
+        - venue: "Prof. Huan Zheng's Group, Shanghai Jiao Tong University (Online)"
+          date: "Nov 2025"
+
+- id: talk-ed-efficiency
+  paper_id: paper-ed-efficiency
+  title: "Queueing Causal Models for Emergency Department Efficiency"
+  groups:
+    - name: "Presentations"
+      items:
+        - venue: "CORS Annual Meeting"
+          date: "June 2026"
+        - venue: "Rotman TD MDAL Research Round Table"
+          date: "May 2025"

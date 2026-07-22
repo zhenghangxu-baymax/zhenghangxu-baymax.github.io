@@ -1,0 +1,60 @@
+.cv-list {
+  --cv-line-height: 1.48;
+  --cv-entry-gap: 1.1rem;
+  --cv-title-gap: 0.18rem;
+  --cv-meta-gap: 0.2rem;
+  --cv-list-top-gap: 0.2rem;
+  --cv-list-item-gap: 0.2rem;
+  --cv-group-gap: 0.62rem;
+
+  line-height: var(--cv-line-height);
+}
+
+.cv-entry {
+  margin-bottom: var(--cv-entry-gap);
+}
+
+.cv-entry .cv-entry-title {
+  margin: 0 0 var(--cv-title-gap);
+  font-size: 1em;
+  line-height: 1.35;
+}
+
+.cv-entry .cv-entry-authors,
+.cv-entry .cv-entry-status,
+.cv-entry .cv-entry-note,
+.cv-entry .cv-entry-group-title {
+  margin: 0 0 var(--cv-meta-gap);
+}
+
+.cv-entry .cv-entry-notes,
+.cv-entry .cv-entry-items {
+  margin-top: var(--cv-list-top-gap);
+  margin-bottom: 0;
+}
+
+.cv-entry .cv-entry-notes li,
+.cv-entry .cv-entry-items li {
+  margin-bottom: var(--cv-list-item-gap);
+}
+
+.cv-entry .cv-entry-notes li:last-child,
+.cv-entry .cv-entry-items li:last-child {
+  margin-bottom: 0;
+}
+
+.cv-entry .cv-entry-group {
+  margin-bottom: var(--cv-group-gap);
+}
+
+.cv-entry .cv-entry-group:last-child {
+  margin-bottom: 0;
+}
+
+.cv-entry .cv-entry-group-title {
+  font-weight: 700;
+}
+
+.cv-entry .cv-entry-index {
+  font-weight: 700;
+}
