@@ -12,10 +12,11 @@ site_theme               : "default"
 title                    : "Zhenghang Xu"
 title_separator          : "-"
 name                     : &name "Zhenghang Xu"
-description              : &description "PhD candidate at University of Toronto"
+description              : &description "Zhenghang Xu, Postdoctoral Research Fellow at Rotman School of Management, University of Toronto. AI for Queueing Discovery and Control."
+last_updated             : "2026-10-05"
 url                      : https://zhenghangxu-baymax.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "zhenghangxu-baymax/zhenghangxu-baymax.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -25,11 +26,11 @@ author:
   avatar           : "profile.jpeg"
   name             : "Zhenghang Xu"
   pronouns         : "He/Him"  
-  bio              : "PhD candidate in Operations Management & Statistics, University of Toronto"
+  bio              : "Postdoctoral Research Fellow at Rotman School of Management, University of Toronto"
   location         : "Toronto, Ontario, Canada"
-  employer         : "University of Toronto"
+  employer         : "Rotman School of Management"
   uri              : # URL
-  email            : # "zhenghang.xu@rotman.utoronto.ca" 
+  email            : "zhenghang.xu@rotman.utoronto.ca"
 
   # Academic websites
   academia         : # URL
@@ -185,6 +186,12 @@ exclude:
   - README
   - tmp
   - vendor
+  # Preserve template sources without publishing duplicate or stale routes.
+  - _pages/teaching.html
+  - _pages/publications.html
+  - _publications/2010-10-01-paper-title-number-2.md
+  - _publications/2015-10-01-paper-title-number-3.md
+  - _publications/2024-02-17-paper-title-number-4.md
 keep_files:
   - .git
   - .svn

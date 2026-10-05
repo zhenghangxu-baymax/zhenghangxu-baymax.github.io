@@ -1,7 +1,12 @@
 ---
 title: "Teaching"
 permalink: /teaching/
+excerpt: "Teaching and mentoring in quantitative modeling, operations management, business analytics, and queueing causal models."
 ---
+
+I teach quantitative modeling as a cycle of building a model, examining its assumptions, learning from data, and using the results to inform a decision. Queueing systems make uncertainty and congestion concrete; machine learning raises questions about what data can reveal and whether a prediction supports a policy change. My teaching and mentoring experience spans undergraduate tutorials, MBA and MMA analytics courses, industry-sponsored capstone projects, and a doctoral guest lecture on queueing causal models.
+
+## Teaching and Mentoring Experience
 
 ### Guest Speaker, Rotman School of Management, University of Toronto
 - **RSM3090**: Queueing Theory - Models and Analysis (PhD) — *Fall 2025*  
@@ -25,3 +30,14 @@ permalink: /teaching/
 - **MAT2040**: Linear Algebra (Undergraduate) — *Spring 2020*  
 - **CHM1001**: General Chemistry (Undergraduate) — *Fall 2019*  
 - **BIO2001**: General Biology (Undergraduate) — *Spring 2019*
+
+## Teaching Interests
+
+I am interested in teaching and developing courses in:
+
+- Stochastic Models and Simulation
+- Operations Management
+- Business Analytics
+- AI and Analytics for Operational Decisions
+
+New course development is a future teaching interest.

@@ -58,3 +58,28 @@
 .cv-entry .cv-entry-index {
   font-weight: 700;
 }
+
+/* Talks use the available desktop width and keep venue/date on one row. */
+@media (min-width: 1024px) {
+  .page.talks-page { padding-right: 0; }
+}
+.talks-page .talk-list {
+  --cv-list-item-gap: 0.3rem;
+  --cv-group-gap: 0.8rem;
+}
+.talks-page .cv-entry-items { padding-left: 1.1em; }
+.talks-page .talk-row {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 1em;
+  font-size: 0.82em;
+  line-height: 1.5;
+}
+.talk-venue { min-width: 0; }
+.talk-date { flex-shrink: 0; white-space: nowrap; }
+.talk-footnote { margin-top: 1.2em; }
+@media (max-width: 600px) {
+  .talks-page .talk-row { font-size: 0.9em; gap: 0.6em; }
+  .talks-page .cv-entry-items { padding-left: 0; }
+}

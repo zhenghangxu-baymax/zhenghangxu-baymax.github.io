@@ -1,0 +1,61 @@
+{% assign diagram_id = page.url | slugify | default: 'home' %}
+<figure class="research-pipeline" aria-label="Research pipeline">
+  <svg class="pipeline-desktop" viewBox="0 0 650 310" role="img" aria-labelledby="pipeline-title-{{ diagram_id }} pipeline-desc-{{ diagram_id }}">
+    <title id="pipeline-title-{{ diagram_id }}">AI for Queueing Discovery and Control</title>
+    <desc id="pipeline-desc-{{ diagram_id }}">Operational systems include queues and inventory. Simulation leads from systems to data; discovery leads from data to systems. Model-based control leads from systems to decisions. Data informs decisions through online learning, and decisions feed back to operational systems.</desc>
+    <defs>
+      <marker id="pipeline-arrow-{{ diagram_id }}" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="context-stroke"/></marker>
+    </defs>
+    <g class="pipeline-boxes">
+      <rect x="20" y="90" width="178" height="165" rx="8"/>
+      <rect x="307" y="130" width="95" height="100" rx="8"/>
+      <rect x="535" y="130" width="100" height="100" rx="8"/>
+    </g>
+    <g class="pipeline-icon-tiles" aria-hidden="true">
+      <rect x="37" y="133" width="44" height="44" rx="6"/>
+      <rect x="37" y="185" width="44" height="44" rx="6"/>
+      <rect x="328.5" y="144" width="52" height="52" rx="6"/>
+      <rect x="559" y="144" width="52" height="52" rx="6"/>
+      <image href="{{ '/images/research/queue.png' | relative_url }}" x="41" y="137" width="36" height="36"/>
+      <image href="{{ '/images/research/inventory.png' | relative_url }}" x="41" y="189" width="36" height="36"/>
+      <image href="{{ '/images/research/data.png' | relative_url }}" x="333.5" y="149" width="42" height="42"/>
+      <image href="{{ '/images/research/decision.png' | relative_url }}" x="564" y="149" width="42" height="42"/>
+    </g>
+    <g class="pipeline-text" text-anchor="middle">
+      <text x="109" y="116" class="pipeline-heading">Operational Systems</text>
+      <text x="133" y="161">Queue</text>
+      <text x="133" y="213">Inventory</text>
+      <text x="109" y="246">…</text>
+      <text x="354.5" y="216" class="pipeline-heading">Data</text>
+      <text x="585" y="216" class="pipeline-heading">Decisions</text>
+    </g>
+    <g class="pipeline-arrows" marker-end="url(#pipeline-arrow-{{ diagram_id }})">
+      <path d="M 198 145 H 307"/>
+      <path d="M 307 180 H 198"/>
+      <path class="pipeline-control" d="M 109 90 V 48 H 585 V 130"/>
+      <path class="pipeline-learning" d="M 402 180 H 535"/>
+      <path class="pipeline-learning" d="M 585 230 V 287 H 109 V 255"/>
+    </g>
+    <g class="pipeline-text pipeline-labels" text-anchor="middle">
+      <text x="347" y="35">Model-based control</text>
+      <text x="252" y="134">Simulation</text>
+      <text x="252" y="169">Discovery</text>
+      <text x="468" y="166">Online learning</text>
+      <text x="347" y="276">Feedback from decisions</text>
+    </g>
+  </svg>
+  <div class="pipeline-mobile">
+    <div class="pipeline-node"><strong>Operational Systems</strong><div class="pipeline-systems">
+      <span class="pipeline-system"><img src="{{ '/images/research/queue.png' | relative_url }}" alt="" width="40" height="40">Queue</span>
+      <span class="pipeline-system"><img src="{{ '/images/research/inventory.png' | relative_url }}" alt="" width="40" height="40">Inventory</span>
+      <span aria-label="Other operational systems">…</span>
+    </div></div>
+    <p class="pipeline-mobile-arrow">↓ Simulation &nbsp; ↑ Discovery</p>
+    <div class="pipeline-node pipeline-node-with-icon"><img src="{{ '/images/research/data.png' | relative_url }}" alt="" width="44" height="44"><strong>Data</strong></div>
+    <p class="pipeline-mobile-arrow">↓ Online learning</p>
+    <div class="pipeline-node pipeline-node-with-icon"><img src="{{ '/images/research/decision.png' | relative_url }}" alt="" width="44" height="44"><strong>Decisions</strong></div>
+    <p class="pipeline-mobile-route">↳ Feedback to operational systems</p>
+    <p class="pipeline-mobile-route">Model-based control: systems → decisions</p>
+  </div>
+  <figcaption>Simulation generates data from operational models; discovery learns operational dynamics from data. Model-based control informs decisions, while online learning uses observations and feedback from decisions. Connecting learned dynamics to MRI capacity control is future work.</figcaption>
+</figure>

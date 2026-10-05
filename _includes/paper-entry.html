@@ -1,0 +1,37 @@
+{% assign paper = include.paper %}
+<section class="cv-entry paper-entry" id="{{ paper.id }}" aria-labelledby="{{ paper.id }}-title">
+{% for alias in paper.aliases %}
+  <span id="{{ alias }}" class="anchor-alias" aria-hidden="true"></span>
+{% endfor %}
+{% if paper.direction %}
+  <p class="paper-direction">{{ paper.direction }}</p>
+{% endif %}
+  <h3 class="cv-entry-title" id="{{ paper.id }}-title">{{ paper.title }}</h3>
+  <p class="cv-entry-status">{{ paper.status | replace: ' | ', ' · ' | markdownify | remove: '<p>' | remove: '</p>' | strip }}</p>
+  <p class="cv-entry-authors">With {{ paper.authors }}.</p>
+{% if paper.citation %}
+  <p class="paper-citation">{% if paper.journal_title %}Journal version: <em>{{ paper.journal_title }}</em>. {% endif %}{{ paper.citation }}</p>
+{% endif %}
+  <p class="paper-summary">{{ paper.summary }}</p>
+{% if paper.scope %}
+  <p class="paper-scope">{{ paper.scope }}</p>
+{% endif %}
+{% if paper.related_id %}
+  {% assign related = site.data.papers | where: "id", paper.related_id | first %}
+  <p class="paper-related">Inventory extension: <a href="{{ '/papers/' | relative_url }}#{{ related.id }}">{{ related.title }}</a>.</p>
+{% endif %}
+{% if paper.links %}
+  <ul class="paper-links" aria-label="Links for {{ paper.title | escape }}">
+{% for link in paper.links %}
+    <li><a href="{% if link.url contains ':' %}{{ link.url }}{% else %}{{ link.url | relative_url }}{% endif %}">{{ link.label }}</a></li>
+{% endfor %}
+  </ul>
+{% endif %}
+{% if paper.notes %}
+  <ul class="cv-entry-notes">
+{% for note in paper.notes %}
+    <li>{{ note | markdownify | remove: '<p>' | remove: '</p>' | strip }}</li>
+{% endfor %}
+  </ul>
+{% endif %}
+</section>

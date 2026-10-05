@@ -1,42 +1,22 @@
-- id: paper-mri-capacity
-  section: submitted
-  title: "Managing Scarce MRI Capacity in Overloaded Queueing Systems"
-  url: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6158086"
-  authors: "Opher Baron, Andre Cire, Adam Diamant and Eugene Furman"
-  status: "Major revision at *MSOM*, 2026"
-  notes:
-    - "🎖️ Finalist, CORS 2026 Healthcare SIG"
-
-- id: paper-bayesian-pricing
-  section: submitted
-  title: "Bayesian Pricing for Impatient Customers with Unknown Valuation"
-  authors: "Philipp Afèche, Opher Baron, and Dmitry Krass"
-  status: "Work in progress, draft available upon request"
-  notes:
-    - "2024 Rotman TD MDAL Research Grant"
-
-- id: paper-ed-efficiency
-  section: submitted
-  title: "Queueing Causal Models for Emergency Department Efficiency"
-  authors: "Opher Baron, Dmitry Krass, Yufeng Zheng"
-  status: "Work in progress"
-  notes:
-    - "2025 Rotman TD MDAL Research Grant"
-
-- id: paper-healthcare-access-fairness
-  section: submitted
-  title: "Fairness in Multi-Stage Healthcare Access: A Study of Congestion, Chronic Patients, and Operational Redesign"
-  authors: "Olga Bountali, Sila Cetinkaya, Michael Hahsler, Farnaz Nourbakhsh and Henry Quinones"
-  status: "Work in progress"
-  notes:
-    - "CORS 2026 Annual Meeting"
-
+# Canonical paper records, in display order. Keep legacy anchors in aliases.
 - id: paper-queueing-causal-models
-  section: published
+  section: featured
+  direction: "Queueing Discovery"
+  featured_label: "Queueing Causal Models"
+  direction_summary: "I use the structure of queueing event data to construct sufficient candidate inputs for machine learning models and evaluate counterfactual policies."
   title: "Queueing Causal Models: Comparative Analytics in Queueing Systems"
-  url: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5104446"
-  authors: "Opher Baron, Dmitry Krass, Mark van der Laan, and Arik Senderovich"
-  status: "*MSOM*, 2025"
+  authors: "Opher Baron, Dmitry Krass, Arik Senderovich, and Mark van der Laan"
+  status: "Job market paper | Published in *Manufacturing & Service Operations Management*"
+  citation: "2025, 28(2), pp. 517–536; issue date March–April 2026."
+  summary: >-
+    My job market paper uses queueing data structure to build machine learning models for counterfactual policy evaluation. Classical queueing models can be sensitive to assumptions, while black-box learning may overlook queueing dependencies. We use event ordering to construct a sufficient history as candidate inputs, then learn relationships and conditional distributions. Numerical experiments show accuracy comparable to queueing-theoretic benchmarks where analytic solutions are available. Ongoing work extends these ideas to inventory systems.
+  scope: "Counterfactual validity relies on causal and finite-history assumptions."
+  related_id: paper-structural-causal-inventory-models
+  links:
+    - label: "Journal"
+      url: "https://pubsonline.informs.org/doi/10.1287/msom.2024.1515"
+    - label: "SSRN"
+      url: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5104446"
   notes:
     - "🥇 First prize, CORS 2025 Queueing and Applied Probability SIG"
     - "🏆 Winner, 2024 Oded Berman Student Paper Competition"
@@ -44,16 +24,92 @@
     - "Service Management SIG, MSOM 2024"
     - "2023 Rotman TD MDAL Research Grant"
 
+- id: paper-mri-capacity
+  section: featured
+  direction: "Capacity Control"
+  featured_label: "MRI Capacity Allocation"
+  direction_summary: "I use fluid models and optimal control to allocate scarce capacity across patient classes in persistently overloaded healthcare systems."
+  title: "Managing Scarce MRI Capacity in Overloaded Queueing Systems"
+  authors: "Adam Diamant, Andre Cire, Eugene Furman, and Opher Baron"
+  status: "Working paper | Major revision at *M&SOM*, 2026"
+  summary: >-
+    We use multiclass fluid models and optimal control to allocate scarce MRI capacity across patient classes with different waiting costs. Under the model assumptions, we characterize a sequential-activation policy: the set of classes eligible for capacity expands over time. We also study minimum service-proportion constraints and a soft fairness regularizer. Our case study uses over seven million MRI encounters across ten years. This model-based control foundation complements my research on learning operational dynamics.
+  links:
+    - label: "SSRN"
+      url: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6158086"
+    - label: "Public PDF"
+      url: "/files/managing-scarce-mri-capacity.pdf"
+  notes:
+    - "🎖️ Finalist, CORS 2026 Healthcare SIG"
+
+- id: paper-learning-to-price-in-queues
+  aliases:
+    - paper-bayesian-pricing
+  section: featured
+  direction: "Online Learning"
+  featured_label: "Learning to Price in Queues"
+  direction_summary: "I design pricing policies that learn customer values while accounting for feedback between prices, admissions, congestion, and future observations."
+  title: "Learning to Price in Queues: Arrival Observability and Value Randomness"
+  authors: "Philipp Afèche, Opher Baron, and Dmitry Krass"
+  status: "Working paper | Draft available upon request"
+  summary: >-
+    We study a learning counterpart of Naor’s strategic queueing framework, where prices affect joining, congestion, and subsequent learning. Core results concern an unknown common deterministic value and observable arrivals. Direct state-adjusted Kleinberg–Leighton pricing can incur linear regret along a sequence of horizons. Admission-adaptive and regenerative algorithms achieve O(log log T) regret under return-time conditions, matching a minimax lower bound for this model class. The broader project examines arrival observability and value randomness.
+  links:
+    - label: "Request draft"
+      url: "mailto:zhenghang.xu@rotman.utoronto.ca?subject=Learning%20to%20Price%20in%20Queues"
+  notes:
+    - "2024 Rotman TD MDAL Research Grant"
+
 - id: paper-emergent-dialysis
-  section: published
+  section: other
   title: "Leveraging Advanced Analytics to Streamline the Emergent Dialysis Process at Parkland Hospital"
-  url: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5066305"
   authors: "Olga Bountali, Sila Cetinkaya, Michael Hahsler, Farnaz Nourbakhsh, and Henry Quinones"
-  status: "*Healthcare Analytics*, 2025"
+  status: "Published in *Healthcare Analytics*, 2025"
+  journal_title: "An investigation of treatment barriers for End-Stage Kidney Disease patients using advanced analytics"
+  citation: "8, article 100438; December 2025."
+  summary: >-
+    We combine descriptive analytics and simulation to understand barriers to emergent dialysis and evaluate operational redesign at Parkland Hospital.
+  links:
+    - label: "Journal"
+      url: "https://doi.org/10.1016/j.health.2025.100438"
+    - label: "SSRN"
+      url: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5066305"
 
 - id: paper-ultrasound-simulation
-  section: published
-  title: "A High-Fidelity, Machine-Learning Enhanced Queueing Network Simulation Model For Hospital Ultrasound Operations"
-  url: "https://ieeexplore.ieee.org/document/9715469"
-  authors: "Yihan Pan, Jin Guang, Xinyun Chen, J.G. Dai, Chengwenjian Wang, Xuanming Zhang, Jingjing Sun, Pengyi Shi, Yichuan Ding, Song Wu, Kai Yang, Hongxin Pan"
-  status: "*Winter Simulation Conference (WSC)*, 2021."
+  section: other
+  title: "A High-Fidelity, Machine-Learning Enhanced Queueing Network Simulation Model for Hospital Ultrasound Operations"
+  authors: "Yihan Pan, Jin Guang, Xinyun Chen, J.G. Dai, Chengwenjian Wang, Xuanming Zhang, Jingjing Sun, Pengyi Shi, Yichuan Ding, Song Wu, Kai Yang, and Hongxin Pan"
+  status: "Published in *Winter Simulation Conference*, 2021"
+  summary: >-
+    We build a calibrated queueing-network simulator for a hospital ultrasound center, using machine learning to capture complex patient routing. This project motivated my subsequent research on learning operational dynamics from data.
+  links:
+    - label: "IEEE"
+      url: "https://ieeexplore.ieee.org/document/9715469"
+
+- id: paper-structural-causal-inventory-models
+  section: ongoing
+  title: "Structural Causal Inventory Models: Identification and Policy Coverage"
+  authors: "Opher Baron and Dmitry Krass"
+  status: "Work in progress"
+  summary: >-
+    We retain known inventory identities, learn stochastic demand and supply mechanisms, and study whether observed trajectories support evaluation of a target ordering policy.
+
+- id: paper-ed-efficiency
+  section: ongoing
+  title: "Queueing Causal Models for Emergency Department Efficiency"
+  authors: "Opher Baron, Dmitry Krass, Mark van der Laan, and Yufeng Zheng"
+  status: "Work in progress"
+  summary: >-
+    An ongoing application of queueing causal models to emergency-department operations and patient-flow decisions.
+  notes:
+    - "2025 Rotman TD MDAL Research Grant"
+
+- id: paper-healthcare-access-fairness
+  section: ongoing
+  title: "Fairness in Multi-Stage Healthcare Access: A Study of Congestion, Chronic Patients, and Operational Redesign"
+  authors: "Olga Bountali, Sila Cetinkaya, Michael Hahsler, Farnaz Nourbakhsh, and Henry Quinones"
+  status: "Work in progress"
+  summary: >-
+    We study how repeated deferral in a re-entrant healthcare access system distributes waiting burdens across patient trajectories, and how operational memory and allocation rules change these burdens.
+  notes:
+    - "CORS 2026 Annual Meeting"

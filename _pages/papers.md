@@ -1,51 +1,51 @@
 ---
-title: "Papers"
+title: "Research"
 permalink: /papers/
+excerpt: "AI for Queueing Discovery and Control: queueing causal models, MRI capacity allocation, online pricing, and ongoing inventory research."
+redirect_from:
+  - /publications/
 ---
 
-## Research Interests
+<span id="research-interests" class="anchor-alias" aria-hidden="true"></span>
 
-My research lies at the intersection of **operations management**, **causal inference**, and **machine learning**, with a focus on developing data-driven methods for decision-making in uncertain service environments.
+## AI for Queueing Discovery and Control
 
-## Submitted & Working Papers
+{% include research-introduction.html %}
 
-<div class="cv-list paper-list">
-{% assign paper_number = 0 %}
-{% assign submitted_papers = site.data.papers | where: "section", "submitted" %}
-{% for paper in submitted_papers %}
-{% assign paper_number = paper_number | plus: 1 %}
-<section class="cv-entry paper-entry" id="{{ paper.id }}">
-  <h3 class="cv-entry-title"><span class="cv-entry-index">[{{ paper_number }}]</span> {% if paper.url %}<a href="{{ paper.url }}">{{ paper.title }}</a>{% else %}{{ paper.title }}{% endif %}</h3>
-  <p class="cv-entry-authors">(with {{ paper.authors }})</p>
-  <p class="cv-entry-status">{{ paper.status | markdownify | remove: '<p>' | remove: '</p>' | strip }}</p>
-{% if paper.notes %}
-  <ul class="cv-entry-notes">
-{% for note in paper.notes %}
-    <li>{{ note | markdownify | remove: '<p>' | remove: '</p>' | strip }}</li>
+{% include research-pipeline.html %}
+
+<nav class="research-jump-links" aria-label="Research directions">
+{% assign featured = site.data.papers | where: "section", "featured" %}
+{% for paper in featured %}
+  <a href="#{{ paper.id }}">{{ paper.direction }}</a>
 {% endfor %}
-  </ul>
-{% endif %}
-</section>
+  <a href="#paper-structural-causal-inventory-models">Inventory research</a>
+</nav>
+
+## Featured Research
+
+<span id="submitted--working-papers" class="anchor-alias" aria-hidden="true"></span>
+<div class="cv-list paper-list">
+{% for paper in featured %}
+  {% include paper-entry.html paper=paper %}
 {% endfor %}
 </div>
 
-## Publications
+## Other Publications
+
+<span id="publications" class="anchor-alias" aria-hidden="true"></span>
+<div class="cv-list paper-list">
+{% assign other = site.data.papers | where: "section", "other" %}
+{% for paper in other %}
+  {% include paper-entry.html paper=paper %}
+{% endfor %}
+</div>
+
+## Ongoing Research
 
 <div class="cv-list paper-list">
-{% assign published_papers = site.data.papers | where: "section", "published" %}
-{% for paper in published_papers %}
-{% assign paper_number = paper_number | plus: 1 %}
-<section class="cv-entry paper-entry" id="{{ paper.id }}">
-  <h3 class="cv-entry-title"><span class="cv-entry-index">[{{ paper_number }}]</span> {% if paper.url %}<a href="{{ paper.url }}">{{ paper.title }}</a>{% else %}{{ paper.title }}{% endif %}</h3>
-  <p class="cv-entry-authors">(with {{ paper.authors }})</p>
-  <p class="cv-entry-status">{{ paper.status | markdownify | remove: '<p>' | remove: '</p>' | strip }}</p>
-{% if paper.notes %}
-  <ul class="cv-entry-notes">
-{% for note in paper.notes %}
-    <li>{{ note | markdownify | remove: '<p>' | remove: '</p>' | strip }}</li>
-{% endfor %}
-  </ul>
-{% endif %}
-</section>
+{% assign ongoing = site.data.papers | where: "section", "ongoing" %}
+{% for paper in ongoing %}
+  {% include paper-entry.html paper=paper %}
 {% endfor %}
 </div>

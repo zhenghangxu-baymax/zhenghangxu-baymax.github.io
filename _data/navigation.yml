@@ -11,7 +11,7 @@ main:
   # - title: "Publications"
   #   url: /publications/
 
-  - title: "Papers"
+  - title: "Research"
     url: /papers/
   
   - title: "Talks"
@@ -34,5 +34,4 @@ main:
     
   # - title: "Guide"
   #   url: /markdown/
-
 
