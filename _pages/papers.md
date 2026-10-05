@@ -10,9 +10,7 @@ redirect_from:
 
 ## AI for Queueing Discovery and Control
 
-{% include research-introduction.html %}
-
-{% include research-pipeline.html %}
+My research spans learning operational dynamics from data, allocating scarce capacity, and adapting pricing decisions over time. The papers below develop these directions and ongoing extensions to inventory systems; see the [homepage]({{ '/' | relative_url }}#ai-for-queueing-discovery-and-control) for an overview of the research program.
 
 <nav class="research-jump-links" aria-label="Research directions">
 {% assign featured = site.data.papers | where: "section", "featured" %}
