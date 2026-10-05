@@ -17,7 +17,7 @@ My research spans learning operational dynamics from data, allocating scarce cap
 {% for paper in featured %}
   <a href="#{{ paper.id }}">{{ paper.direction }}</a>
 {% endfor %}
-  <a href="#paper-structural-causal-inventory-models">Inventory research</a>
+  <a href="#paper-structural-causal-inventory-models">Causal Inventory Modeling</a>
 </nav>
 
 ## Featured Research
