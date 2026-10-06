@@ -43,7 +43,7 @@
 }
 .pipeline-control,
 .pipeline-learning { stroke: var(--global-link-color); }
-.pipeline-mobile { display: none; }
+.research-pipeline .pipeline-mobile { display: none; }
 
 .research-directions {
   display: grid;
@@ -86,24 +86,18 @@
   .research-direction p { font-size: 1em; }
 }
 
-@media (max-width: 540px) {
+@media (max-width: 700px) {
   .research-pipeline .pipeline-desktop { display: none; }
-  .pipeline-mobile { display: block; max-width: 320px; margin: 0 auto; text-align: center; }
-  .pipeline-node {
-    display: flex;
-    flex-direction: column;
-    padding: 0.65em 1em;
-    background: var(--global-footer-bg-color);
-    border: 1px solid var(--global-dark-border-color);
-    border-radius: 6px;
-    font-size: 0.9em;
+  .research-pipeline .pipeline-mobile {
+    display: block;
+    width: 100%;
+    max-width: 400px;
+    height: auto;
+    aspect-ratio: 360 / 400;
+    margin: 0 auto;
   }
-  .pipeline-systems { display: flex; justify-content: center; align-items: center; gap: 1em; margin-top: 0.7em; }
-  .pipeline-system { display: flex; flex-direction: column; align-items: center; gap: 0.3em; }
-  .pipeline-node img { background: #fff; border-radius: 6px; padding: 4px; box-sizing: content-box; }
-  .pipeline-system img { width: 40px; height: 40px; }
-  .pipeline-node-with-icon img { width: 44px; height: 44px; flex: 0 0 auto; }
-  .pipeline-node-with-icon { flex-direction: row; align-items: center; justify-content: center; gap: 0.75em; }
-  .pipeline-mobile-arrow, .pipeline-mobile-route { font-size: 0.8em; margin: 0.55em 0; }
+  .pipeline-mobile .pipeline-text { font-size: 17px; }
+  .pipeline-mobile .pipeline-heading { font-size: 18px; }
+  .pipeline-mobile .pipeline-labels { font-size: 16px; }
   .research-pipeline figcaption { font-size: 0.85em; }
 }
