@@ -119,6 +119,52 @@
   }
 }
 
+// Give the portrait enough space to show the face clearly at every screen size.
+.author__avatar--portrait {
+  display: block;
+  width: 220px;
+  max-width: 100%;
+  aspect-ratio: 4 / 5;
+  overflow: hidden;
+  border-radius: 6px;
+  margin-bottom: 1em;
+
+  img {
+    display: block;
+    width: 100%;
+    max-width: none;
+    height: 100%;
+    padding: 0;
+    border: 0;
+    object-fit: cover;
+    object-position: 54% 50%;
+    transform: scale(1.5);
+    transform-origin: 54% 45%;
+  }
+
+  & + .author__content {
+    display: block;
+    padding-left: 0;
+  }
+}
+
+@include breakpoint($large) {
+  .sidebar {
+    width: 260px;
+    max-width: 260px;
+  }
+
+  .author__avatar--portrait {
+    width: 100%;
+    height: auto;
+  }
+
+  .page {
+    width: calc(100% - 290px);
+    padding-left: 0;
+  }
+}
+
 .author__name {
   margin: 0;
 
