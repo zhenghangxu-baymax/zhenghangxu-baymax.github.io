@@ -14,7 +14,7 @@ redirect_from:
 
 <nav class="intro-links" aria-label="Profile resources">
   <a href="{{ '/papers/' | relative_url }}">Research</a>
-  <a href="{{ '/files/Resume.pdf' | relative_url }}">CV (PDF)</a>
+  <a href="{{ '/files/Zhenghang_Xu_CV_2026.pdf' | relative_url }}">CV (PDF)</a>
   <a href="mailto:zhenghang.xu@rotman.utoronto.ca">Email</a>
 </nav> -->
 
