@@ -22,7 +22,7 @@ redirect_from:
 
 Welcome to my page!
 
-I am Zhenghang Xu (徐正航), a Postdoctoral Research Fellow at [Rotman School of Management](https://www.rotman.utoronto.ca/), University of Toronto. I have the pleasure of working with Prof. [Nasser Barjesteh](https://www-2.rotman.utoronto.ca/nasser.barjesteh/), Prof. [Sheng Liu](https://sites.google.com/site/thushengliu/), and Prof. [Vahid Roshanaei](https://www.rotman.utoronto.ca/the-rotman-experience/our-community/people/roshanaei-vahid/), continuing my academic journey with the Rotman community.
+I am Zhenghang Xu (徐正航), a Postdoctoral Research Fellow at [Rotman School of Management](https://www.rotman.utoronto.ca/), University of Toronto. I have the pleasure of working with Prof. [Nasser Barjesteh](https://discover.research.utoronto.ca/22938-nasser-barjesteh), Prof. [Sheng Liu](https://sites.google.com/site/thushengliu/), and Prof. [Vahid Roshanaei](https://www.rotman.utoronto.ca/the-rotman-experience/our-community/people/roshanaei-vahid/), continuing my academic journey with the Rotman community.
 
 I received my PhD in [Operations Management and Statistics](https://www.rotman.utoronto.ca/faculty-and-research/academic-areas/operations-management-and-statistics/) from the University of Toronto in 2026. It was my great honor and pleasure to be advised by Prof. [Opher Baron](https://discover.research.utoronto.ca/10004-opher-baron), Prof. [Dmitry Krass](https://discover.research.utoronto.ca/7243-dmitry-krass), and Prof. [Philipp Afèche](https://discover.research.utoronto.ca/15099-philipp-afeche). Prior to my PhD, I received my bachelor's degree in Statistical Science from [The Chinese University of Hong Kong, Shenzhen (CUHKSZ)](https://www.cuhk.edu.cn/en) in 2021.
 
