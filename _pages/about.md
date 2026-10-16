@@ -26,8 +26,6 @@ I am Zhenghang Xu (徐正航), a Postdoctoral Research Fellow at [Rotman School 
 
 I received my PhD in [Operations Management and Statistics](https://www.rotman.utoronto.ca/faculty-and-research/academic-areas/operations-management-and-statistics/) from the University of Toronto in 2026. It was my great honor and pleasure to be advised by Prof. [Opher Baron](https://discover.research.utoronto.ca/10004-opher-baron), Prof. [Dmitry Krass](https://discover.research.utoronto.ca/7243-dmitry-krass), and Prof. [Philipp Afèche](https://discover.research.utoronto.ca/15099-philipp-afeche). Prior to my PhD, I received my bachelor's degree in Statistical Science from [The Chinese University of Hong Kong, Shenzhen (CUHKSZ)](https://www.cuhk.edu.cn/en) in 2021.
 
-My research brings together causal inference, machine learning, stochastic modeling, and control to understand operational systems and support decision-making. I am particularly interested in what we can learn about queueing dynamics from data, how that understanding informs capacity decisions, and how to learn and adapt pricing decisions over time. These interests form the research program described below.
-
 ## AI for Queueing Discovery and Control
 
 {% include research-introduction.html %}
