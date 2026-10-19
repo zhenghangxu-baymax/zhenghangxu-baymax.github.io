@@ -8,6 +8,11 @@ I teach quantitative modeling as a cycle of building a model, examining its assu
 
 ## Teaching and Mentoring Experience
 
+### Guest Lecturer, Simon Business School, University of Rochester (Scheduled)
+
+- **PhD Seminar (Online)**: Queueing Causal Models: Comparative Analytics in Queueing Systems — *December 4, 2026*.
+  Invited by Prof. Ricky Roet-Green.
+
 ### Guest Speaker, Rotman School of Management, University of Toronto
 - **RSM3090**: Queueing Theory - Models and Analysis (PhD) — *Fall 2025*  
 
